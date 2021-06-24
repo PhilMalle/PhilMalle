@@ -1,5 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
+## 🔭 I’m currently working on my Blog. 
+
+I have started with my blog a few weeks ago. At the moment i am making a few changes of the look. 
+But i hope it will be finished soon. 😄
+
+The blog will be about Cyber-Security, Pentesting and other Tech-specific topics. 
+
+But most it will be about walkthroughs of my Pentestings rooms. 
+
+I will also post about my progress of the PNPT-Certification. 
+
+gr33z Phil
 <!--
 **PhilMalle/PhilMalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
