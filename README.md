@@ -5,6 +5,10 @@
 <!--
 **PhilMalle/PhilMalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!-- <p align="center">
+<img src="https://imgur.com/a/8fb8PQ5"> -->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
