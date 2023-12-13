@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Terminal&pause=1000&color=24F700&random=false&width=435&lines=Trying+bruteforce+;found+valid+credentials+;trying+to+connect+on+port+1337;Access+Granted+...+pwn3d">
 </p>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&pause=1000&color=24F700&random=false&width=435&lines=Trying+bruteforce+;found+valid+credentials+;trying+to+connect+on+port+1337;Access+Granted+...+pwn3d)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&pause=1000&color=24F700&random=false&width=435&lines=Trying+bruteforce+;found+valid+credentials+;trying+to+connect+on+port+1337;Access+Granted+...+pwn3d)](https://git.io/typing-svg) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Terminal&pause=1000&color=24F700&random=false&width=435&lines=Trying+bruteforce+;found+valid+credentials+;trying+to+connect+on+port+1337;Access+Granted+...+pwn3d">
