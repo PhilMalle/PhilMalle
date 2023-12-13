@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bfr3akazo1d%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;Fr3akazo1d%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&pause=1000&color=24F700&random=false&width=435&lines=Trying+bruteforce+;found+valid+credentials+;trying+to+connect+on+port+1337;Access+Granted+...+pwn3d)](https://git.io/typing-svg)
 <!--
 **PhilMalle/PhilMalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
