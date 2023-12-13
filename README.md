@@ -1,17 +1,6 @@
-# Hi there 👋
+<!--### Hi there 👋 -->
 
-## 🔭 I’m currently working on my Blog. 
-
-I have started with my blog a few weeks ago. At the moment i am making a few changes of the look. 
-But i hope it will be finished soon. 😄
-
-The blog will be about Cyber-Security, Pentesting and other Tech-specific topics. 
-
-But most it will be about walkthroughs of my Pentestings rooms. 
-
-I will also post about my progress of the PNPT-Certification. 
-
-gr33z Phil
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BD3vil0p3r%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;Fr3akazo1d%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
 <!--
 **PhilMalle/PhilMalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
