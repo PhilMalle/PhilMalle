@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 
 <p align="center">
-  <img src="[Hello Friend!](https://i.imgur.com/P5GnEXL.gif)" alt="animated" />
+  <img src="https://i.imgur.com/P5GnEXL.gif" alt="animated" />
 </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&pause=1000&color=24F700&random=false&width=435&lines=Trying+bruteforce+;found+valid+credentials+;trying+to+connect+on+port+1337;Access+Granted+...+pwn3d)](https://git.io/typing-svg)
 <!-- 
