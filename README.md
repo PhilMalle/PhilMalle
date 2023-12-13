@@ -7,7 +7,7 @@
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center"> -->
-<[img src="https://i.imgur.com/P5GnEXL.gif> 
+<img src="https://i.imgur.com/P5GnEXL.gif> 
 
 ![](https://github-readme-stats.vercel.app/api?username=philmalle&theme=vue-dark&hide_border=true&include_all_commits=true&bg_color=0d1117&hide=issues,contribs&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=philmalle&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&layout=compact&langs_count=6) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=philmalle&theme=vue-dark&background=0d1117&hide_border=true)<br/>
